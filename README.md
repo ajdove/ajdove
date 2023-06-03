@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ajdove
-- 👀 I’m interested in PHP and Javascript
-- 🌱 I’m currently learning Node.js and Angular
-- 💞️ I’m looking to collaborate on PHP and Javascript web projets
+- 👀 I’m interested in PHP, Javascript, Node.js and Angular
+- 💞️ I’m looking to collaborate on PHP, Node.js, Angular and Javascript web projets
 - 📫 How to reach me: https//www.estuaryweb.co.uk/contact_ews
 
 <!---
